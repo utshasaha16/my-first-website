@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    font-style:italic;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-size: 80px;
+    text-align: center;
+}
+
+#heading{
+    background-color: aqua;
+    height: 500px;
+    padding: 100px o;
+
+}
